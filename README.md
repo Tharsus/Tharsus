@@ -5,16 +5,11 @@
 
 My name is Thársus Proux and I'm passionate about learning and solving problems!
 
-I currently work as a Full Stack Developer in a consulting company, developing a web portal to centralize services for a client in the energy distribution business.
-- Tech Stack used: React with Material-UI for the front-end, Node.JS for the back-end and Oracle for the database
-- The application follows the Domain-Driven Design aproach with microservice architecture
-- The backend has an API gateway that authenticate and route the request to the respective microservice, each one with a well defined REST API
-
-Here are some information about me:
+I am a Software Development Engineer and here are a couple of information about me:
 - :earth_americas: I'm from Rio de Janeiro, Brazil.
 - :airplane: I love to travel and I have lived for one year in England in order to study at the University of Surrey.
-- :computer: Technical skills: Full Stack Web Development (React and Node.js), Python, C++, C, SQL, VBA
+- :computer: Technical skills: Web Development with Java, Node.js and React
 - :mag_right: Soft skills: I have almost four years of experience working as a Product Owner, which greatly enhanced my soft skills, specially: Communication, Interpersonal Skills, Expectation Management and Problem-solving
-- :wrench: Tools: Visual Studio Code, Eclipse, Power BI, Excel, Power Point, Word
+- :wrench: Tools: IntelliJ, Visual Studio Code, Eclipse, Power BI, Excel, Power Point, Word
 - :mortar_board: Education: Bachelor in Electronic and Computing Engineering
 - :mailbox: How to reach me: tharsus@poli.ufrj.br
